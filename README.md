@@ -14,7 +14,7 @@ In the [April 7–14, 2025 SQL case study](https://github.com/akwu117/themlsmetr
 - Trace a discrepancy back to a manually entered spreadsheet value and correct the source formula.
 - Document the findings, pending database updates, and data-quality issues that need further review.
 
-**[Explore the project](https://github.com/akwu117/themlsmetric) · [Read the case study and SQL](https://github.com/akwu117/themlsmetric/tree/main/case-studies/25APR07-14)**
+**[Live website and dashboard](https://themlsmetric.akwulah.chatgpt.site) · [Explore the project](https://github.com/akwu117/themlsmetric) · [Read the case study and SQL](https://github.com/akwu117/themlsmetric/tree/main/case-studies/25APR07-14)**
 
 ## Skills I'm developing
 
